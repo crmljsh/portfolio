@@ -74,7 +74,7 @@ export default function Portfolio() {
         <div className="container flex h-14 items-center">
           <div className="mr-4 flex">
             <Link href="/" className="mr-6 flex items-center space-x-2">
-              <span className="font-bold">Home</span>
+              <span className="">Home</span>
             </Link>
           </div>
           <div className="flex flex-1 items-center justify-between space-x-2 md:justify-end">
@@ -297,7 +297,7 @@ export default function Portfolio() {
       <footer className="border-t py-8">
         <div className="container px-4">
           <div className="flex flex-col sm:flex-row justify-between items-center">
-            <p className="text-sm text-muted-foreground">© 2025 Cromuel Josh All rights reserved.</p>
+            <p className="text-sm text-muted-foreground">© 2025 Cromuel Josh. All rights reserved.</p>
             <div className="flex items-center space-x-4 mt-4 sm:mt-0">
               <Button variant="ghost" size="icon" asChild>
                 <Link href="https://github.com/crmljsh" target="_blank">
