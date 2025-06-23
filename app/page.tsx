@@ -14,7 +14,7 @@ export default function Portfolio() {
     "CSS",
     "SQLite",
     "Raspberry Pi",
-    "Arduino",
+    "Arduinos",
     "Meta Business Suite",
     "Office Productivity Tools",
     "Visual Studio Code",
