@@ -236,7 +236,7 @@ export default function Portfolio() {
       {/* Certificates Section */}
       <section id="certificates" className="container px-4 py-24 bg-muted/50">
         <div className="mx-auto max-w-6xl">
-          <h2 className="text-3xl font-bold tracking-tighter mb-8 text-center">Certificates & Seminars</h2>
+          <h2 className="text-3xl font-bold tracking-tighter mb-8 text-center">Certificates</h2>
           <div className="grid gap-6 md:grid-cols-2">
             {certificates.map((cert, index) => (
               <Card key={index} className="hover:shadow-lg transition-shadow">
