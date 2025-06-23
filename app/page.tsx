@@ -57,6 +57,14 @@ export default function Portfolio() {
       link: "generativeai.pdf",
       description: "Explored the fundamentals and real-world applications of generative AI technologies, including text, image, and code generation.",
     },
+    {
+      title: "Data Analysis with Python",
+      issuer: "freecodeCamp",
+      date: "2025",
+      credentialId: "crmljsh-dawp",
+      link: "https://www.freecodecamp.org/certification/crmljsh/data-analysis-with-python-v7",
+      description: "Gained hands-on experience in data manipulation, analysis, and visualization using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn through real-world projects.",
+    },
   ]
 
   return (
@@ -66,7 +74,7 @@ export default function Portfolio() {
         <div className="container flex h-14 items-center">
           <div className="mr-4 flex">
             <Link href="/" className="mr-6 flex items-center space-x-2">
-              <span className="font-bold">Portfolio</span>
+              <span className="font-bold">Home</span>
             </Link>
           </div>
           <div className="flex flex-1 items-center justify-between space-x-2 md:justify-end">
