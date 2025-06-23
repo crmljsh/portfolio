@@ -49,6 +49,14 @@ export default function Portfolio() {
       link: "fundamentalsai.pdf",
       description: "Completed AWS's introductory course on Machine Learning and Artificial Intelligence, covering core concepts, tools, and real-world applications.",
     },
+    {
+      title: "Introduction to Generative AI",
+      issuer: "AWS Training and Certification",
+      date: "2025",
+      credentialId: "b717c557-dd5b-4a52-8e1f-4ea5a435305b",
+      link: "generativeai.pdf",
+      description: "Explored the fundamentals and real-world applications of generative AI technologies, including text, image, and code generation.",
+    },
   ]
 
   return (
