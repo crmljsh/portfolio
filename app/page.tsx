@@ -223,7 +223,7 @@ export default function Portfolio() {
                     <Button size="sm" asChild>
                       <Link href={project.demo} target="_blank">
                         <ExternalLink className="mr-2 h-4 w-4" />
-                        Documentation
+                        Demo
                       </Link>
                     </Button>
                   </div>
