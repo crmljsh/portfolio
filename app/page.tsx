@@ -29,7 +29,7 @@ export default function Portfolio() {
       image: "/medicab.jpg?height=200&width=300",
       technologies: ["Python", "Raspberry Pi", "Flask", "HTML",],
       github: "https://github.com/crmljsh",
-      demo: "/softwarewalkthrough.pdf",
+      docu: "/softwarewalkthrough.pdf",
     },
   ]
 
