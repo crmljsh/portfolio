@@ -29,7 +29,7 @@ export default function Portfolio() {
       image: "/medicab.jpg?height=200&width=300",
       technologies: ["Python", "Raspberry Pi", "Flask", "HTML",],
       github: "https://github.com/crmljsh",
-      docu: "/softwarewalkthrough.pdf",
+      demo: "/softwarewalkthrough.pdf",
     },
   ]
 
@@ -223,7 +223,7 @@ export default function Portfolio() {
                     <Button size="sm" asChild>
                       <Link href={project.demo} target="_blank">
                         <ExternalLink className="mr-2 h-4 w-4" />
-                        Demo
+                        Documentation
                       </Link>
                     </Button>
                   </div>
