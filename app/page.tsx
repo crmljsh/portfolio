@@ -18,6 +18,7 @@ export default function Portfolio() {
     "Meta Business Suite",
     "Office Productivity Tools",
     "Visual Studio Code",
+    "GitHub"
   ]
 
   const projects = [
@@ -28,7 +29,7 @@ export default function Portfolio() {
       image: "/medicab.jpg?height=200&width=300",
       technologies: ["Python", "Raspberry Pi", "Flask", "HTML",],
       github: "https://github.com/crmljsh",
-      demo: "https://www.youtube.com/shorts/j-bVcyyk8FQ",
+      demo: "/softwarewalkthrough.pdf",
     },
   ]
 
