@@ -24,12 +24,19 @@ export default function Portfolio() {
   const projects = [
     {
       title: "Automated Medicine Cabinet",
-      description:
-        "A system that aims to automate the medicine quantity processes and deliver real-time expiry notifications",
+      description: "A system that aims to automate the medicine quantity processes and deliver real-time expiry notifications",
       image: "/medicab.jpg?height=200&width=300",
       technologies: ["Python", "Raspberry Pi", "Flask", "HTML",],
       github: "https://github.com/crmljsh",
       demo: "/softwarewalkthrough.pdf",
+    },
+    {
+      title: "Book Data Analysis",
+      description: "This project explores a dataset of over 2,000 books to uncover trends in genres, publication years, page counts, and user ratings.",
+      image: "/books.jpg?height=200&width=300",
+      technologies: ["Python", "Numpy", "Pandas", "Matplotlib",],
+      github: "https://github.com/crmljsh/book-data-analysis.git",
+      demo: "https://github.com/crmljsh/book-data-analysis/blob/main/Book_Analysis.ipynb",
     },
   ]
 
@@ -65,6 +72,14 @@ export default function Portfolio() {
       credentialId: "crmljsh-dawp",
       link: "https://www.freecodecamp.org/certification/crmljsh/data-analysis-with-python-v7",
       description: "Gained hands-on experience in data manipulation, analysis, and visualization using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn through real-world projects.",
+    },
+    {
+      title: "Data analysis: visualisations in Excel",
+      issuer: "The Open University",
+      date: "2025",
+      credentialId: "B126_1",
+      link: "data_visualisation_with_excel.pdf",
+      description: "Learned to analyze and visualize data in Excel using charts, histograms, and scatter plots, and interpret relationships between variables for effective business decision-making.",
     },
   ]
 
