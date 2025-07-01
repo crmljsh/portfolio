@@ -27,7 +27,7 @@ export default function Portfolio() {
       description: "A system that aims to automate the medicine quantity processes and deliver real-time expiry notifications",
       image: "/medicab.jpg?height=200&width=300",
       technologies: ["Python", "Raspberry Pi", "Flask", "HTML",],
-      github: "https://github.com/crmljsh",
+      github: "https://github.com/crmljsh/medicab/blob/main/app.py",
       demo: "/softwarewalkthrough.pdf",
     },
     {
