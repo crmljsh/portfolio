@@ -50,6 +50,14 @@ export default function Portfolio() {
       description: "Certified English proficiency through the EF Standard English Test (EF SET), demonstrating skills in reading, writing, speaking and listening comprehension.",
     },
     {
+      title: "Certificate of Language Proficiency",
+      issuer: "goFLUENT",
+      date: "2025",
+      credentialId: "10daa61d-c562-424b-bd63-f8617d641b10",
+      link: "/gofluent.pdf",
+      description: "Awarded by goFLUENT for demonstrating advanced English proficiency in professional and academic contexts.",
+    },
+    {
       title: "Fundamentals of Machine Learning and Artificial Intelligence",
       issuer: "AWS Training and Certification",
       date: "2025",
